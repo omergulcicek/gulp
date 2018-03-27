@@ -41,4 +41,4 @@ gulp.task("css", function() {
 
 Yukarıdaki kod, tüm css dosyalarını alıp `all.css` adında tek dosya haline getirir. Örnekte Css kodları üzerinden örnek verilmiş olsada aynı işlemi JavaScript içinde aynı şekilde gerçekleştirebilirsiniz.
 
-<a href="https://omergulcicek.github.io/gulp/eklentiler/declaration-sorter">Sıradaki Eklenti: Declaration Sorter</a>
+<a href="https://omergulcicek.github.io/gulp/eklentiler/css-declaration-sorter">Sıradaki Eklenti: Css Declaration Sorter</a>
