@@ -16,14 +16,14 @@
 
 - <a href="https://omergulcicek.github.io/gulp/eklentiler/autoprefixer">Autoprefixer</a>
 - <a href="https://omergulcicek.github.io/gulp/eklentiler/browser-sync">Browser Sync</a>
-- <a href="https://omergulcicek.github.io/gulp/eklentiler/gulp-clean-css">Clean Css</a>
-- <a href="https://omergulcicek.github.io/gulp/eklentiler/gulp-concat">Concat</a>
-- <a href="https://omergulcicek.github.io/gulp/eklentiler/gulp-declaration-sorter">Declaration Sorter</a>
-- <a href="https://omergulcicek.github.io/gulp/eklentiler/gulp-imagemin">Imagemin</a>
-- <a href="https://omergulcicek.github.io/gulp/eklentiler/gulp-postcss">Postcss</a>
-- <a href="https://omergulcicek.github.io/gulp/eklentiler/gulp-rename">Rename</a>
-- <a href="https://omergulcicek.github.io/gulp/eklentiler/gulp-sass">Sass</a>
-- <a href="https://omergulcicek.github.io/gulp/eklentiler/gulp-sourcemap">Sourcemap</a>
-- <a href="https://omergulcicek.github.io/gulp/eklentiler/gulp-uglify">Uglify</a>
+- <a href="https://omergulcicek.github.io/gulp/eklentiler/clean-css">Clean Css</a>
+- <a href="https://omergulcicek.github.io/gulp/eklentiler/concat">Concat</a>
+- <a href="https://omergulcicek.github.io/gulp/eklentiler/css-declaration-sorter">Css Declaration Sorter</a>
+- <a href="https://omergulcicek.github.io/gulp/eklentiler/imagemin">Imagemin</a>
+- <a href="https://omergulcicek.github.io/gulp/eklentiler/postcss">Postcss</a>
+- <a href="https://omergulcicek.github.io/gulp/eklentiler/rename">Rename</a>
+- <a href="https://omergulcicek.github.io/gulp/eklentiler/sass">Sass</a>
+- <a href="https://omergulcicek.github.io/gulp/eklentiler/sourcemaps">Sourcemaps</a>
+- <a href="https://omergulcicek.github.io/gulp/eklentiler/uglify">Uglify</a>
 
 <i>Eklemeler yapılacaktır.</i>
