@@ -31,6 +31,14 @@ a {
 }
 ```
 
+<h2>Kurulum</h2>
+
+Aşağıdaki komut ile kurulum işlemini gerçekleştirebilirsiniz.
+
+```sh
+npm install autoprefixer --save-dev
+```
+
 <h2>Kullanımı</h2>
 
 Post Css ile birlikte autoprefixer eklentisini kullanabilirsiniz.
