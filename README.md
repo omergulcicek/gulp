@@ -20,7 +20,6 @@
 - <a href="https://omergulcicek.github.io/gulp/eklentiler/concat">Concat</a>
 - <a href="https://omergulcicek.github.io/gulp/eklentiler/css-declaration-sorter">Css Declaration Sorter</a>
 - <a href="https://omergulcicek.github.io/gulp/eklentiler/imagemin">Imagemin</a>
-- <a href="https://omergulcicek.github.io/gulp/eklentiler/postcss">Postcss</a>
 - <a href="https://omergulcicek.github.io/gulp/eklentiler/rename">Rename</a>
 - <a href="https://omergulcicek.github.io/gulp/eklentiler/sass">Sass</a>
 - <a href="https://omergulcicek.github.io/gulp/eklentiler/sourcemaps">Sourcemaps</a>
