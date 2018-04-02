@@ -9,14 +9,14 @@
 Css dosyalarından gereksiz boşlukları kaldırarak minify eder (<i>sıkıştırır</i>), böylece dosya boyutunuda en aza indirmiş olur.
 
 ```css
-/* Kaydetmeden Önce */
+/* Önce */
 a {
     color: #000;
     display: inline-block;
     text-decoration: none;
 }
 
-/* Kaydettikten Sonra */
+/* Sonra */
 a{color:#000;display:inline-block;text-decoration:none}
 ```
 
