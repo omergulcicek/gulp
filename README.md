@@ -12,8 +12,6 @@ Frontend kodlama yaparken istediğiniz her görevi gulp'a atayıp, direkt olarak
 
 <i>Gulp'a ilk adımı atmamı sağlayan <a href="https://twitter.com/keremciu">Kerem Sevencan</a>'ın <a href="https://medium.com/@keremciu/ben-galp-gulp-1-15340198e866">Ben galp Gulp!</a> makalesini okumanızı tavsiye ederim.</i>
 
-İlerleyen konularda Gulp kurulumundan bahsedip, ardından sık kullanacağımız fonksiyonları tanıyacağız.
-
 <h2>Giriş</h2>
 
 - <a href="https://omergulcicek.github.io/gulp/giris/gulp-kurulumu">Gulp Kurulumu</a>
