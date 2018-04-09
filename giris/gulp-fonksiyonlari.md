@@ -63,7 +63,7 @@ Aynı şekilde `.js` uzantılı dosyalarda değişiklik yapıldığında `javasc
 
 <h2>default</h2>
 
-`default (varsayılan)` demektir. Oluşturacağımız `default` adındaki task, içerisinde varsayılan tasklarımızı barındırır.
+`default (varsayılan)` demektir. Gulp'un varsayılan olarak temel görevi `default` taskıdır. 
 
 Örnek kullanımı şu şekildedir:
 
