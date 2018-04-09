@@ -63,7 +63,9 @@ Aynı şekilde `.js` uzantılı dosyalarda değişiklik yapıldığında `javasc
 
 <h2>default</h2>
 
-`default (varsayılan)` demektir. Gulp'un varsayılan olarak temel görevi `default` taskıdır. 
+`default (varsayılan)` demektir. Gulp'un varsayılan olarak temel görevi `default` taskıdır.
+
+Örneğin `css`, `js`, `img` adında tasklar oluşturmuş olalım. `gulp css`, `gulp js`, `gulp img` diyerek tek tek o taskları çalışmak yerine, `default` taskına hepsini eklersek tek kerede hepsini çağırabiliriz. Konsola `gulp` yazdığınızda varsayılan olarak `gulp default` taskı çalışacak ve bu taskta diğer tasklarınızı çalıştırmış olacaktır.
 
 Örnek kullanımı şu şekildedir:
 
