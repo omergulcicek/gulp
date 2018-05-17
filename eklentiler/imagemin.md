@@ -30,4 +30,4 @@ gulp.task("image", function() {
 
 Yukarıdaki kod, `src/img` klasörü içerisindeki tüm görsel dosyaları sıkıştırıp `dest/img` klasörüne atacaktır.
 
-<a href="https://omergulcicek.github.io/gulp/eklentiler/post-css">Sıradaki Eklenti: Post Css</a>
+<a href="https://omergulcicek.github.io/gulp/eklentiler/rename">Sıradaki Eklenti: Rename</a>
