@@ -39,5 +39,3 @@ gulp.task("javascript", function() {
 ```
 
 Yukarıdaki kod, javascript kodlarını alıp minify eder (<i>sıkıştırır</i>).
-
-<a>Sıradaki Eklenti: </a>
