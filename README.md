@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://omergulcicek.com/img/github/gulp.png" alt="Gulp - Türkçe Doküman" height="150">
+<img src="https://omergulcicek.com/img/gulp.png" alt="Gulp - Türkçe Doküman" height="100">
 </p>
 
 <h1 align="center">Gulp - Türkçe Doküman</h1>
