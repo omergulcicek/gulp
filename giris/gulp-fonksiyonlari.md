@@ -54,8 +54,15 @@ Her taska bir isim vermek zorundayız, task isimlerinde boşluk karakteri olmama
 gulp.task("watch", function() {
     gulp.watch("css/*.css", ["css"]);
     gulp.watch("js/*.js", ["javascript"]);
+    
+    //Gulp 4 kullananlar için
+    gulp.watch("css/*.css", gulp.series("css"))
 });
 ```
+
+> NOT
+>
+> Gulp 4 kullanıyorsanız ikinci parametrede taskları array yerine `gulp.series()` fonksiyonuyla kullanmalısınız.
 
 Yukarıdaki Gulp taskı, `css` klasörü içerisindeki tüm `.css` uzantılı dosyaları izler ve değişiklik yaptığınız anda `css` taskını çalıştırır.
 
@@ -76,7 +83,14 @@ gulp.task('default', function() {
 
 //yada şu şekilde kullanabilirsiniz:
 gulp.task("default", ["css", "javascript", "watch"]);
+
+//Gulp 4 kullananlar için
+gulp.task("default", gulp.parallel("css", "javascript", "watch"))
 ```
+
+> NOT
+>
+> Gulp 4 kullanıyorsanız ikinci parametrede taskları array yerine `gulp.parallel()` fonksiyonuyla kullanmalısınız.
 
 <i>Genel gulp bilgisi bu kadar. Bu aşamadan sonra en sık kullanılan eklentilerin anlatımına geçiş yapılacaktır.</i>
 
