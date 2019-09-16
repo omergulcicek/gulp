@@ -38,5 +38,3 @@ Frontend kodlama yaparken istediğiniz her görevi gulp'a atayıp, direkt olarak
 - <a href="https://omergulcicek.github.io/gulp/eklentiler/sass">Sass</a>
 - <a href="https://omergulcicek.github.io/gulp/eklentiler/sourcemaps">Sourcemaps</a>
 - <a href="https://omergulcicek.github.io/gulp/eklentiler/uglify">Uglify</a>
-
-<i>Eklemeler yapılacaktır.</i>
